@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
+# Desenvolvimento
+
+Este projeto foi desenvolvido por Wesley Silva Ferreira, para as atividades de implementação de tela inicial, service de consumo de API. Foi implementado serviços de login, cadastro de produtos, atualização de produtos e exclusão.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.

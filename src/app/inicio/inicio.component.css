@@ -10,12 +10,6 @@ main {
     height: 500px;
 }
 
-h2 {
-    text-align: center;
-    font-size: 30px;
-    margin-top: 20px;
-}
-
 .example-card {
     max-width: 400px;
 }
@@ -51,6 +45,6 @@ mat-card-actions p{
 }
 
 mat-card img {
-    height: 300px;
+    height: 350px;
     width: 300px;
 }
